@@ -1,0 +1,26 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "Review",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-02-12T11:45:18-03:00"
+    },
+    {
+      "path": "intro.html",
+      "title": "Introduction",
+      "description": "Introduction of Review Blog\n",
+      "author": [
+        {
+          "name": "Chungil Chae",
+          "url": "https://chadchae.github.io"
+        }
+      ],
+      "date": "`r format(Sys.time(), '%d %B, %Y')`",
+      "contents": "\n\nContents\nIntroduction\n\nIntroduction\n\n\n\n",
+      "last_modified": "2021-02-12T11:45:21-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
